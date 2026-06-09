@@ -24,11 +24,11 @@ A permit set is the minimum set of technical drawings and documentation required
 ## What Was Delivered
 
 ### Mechanical (HVAC) Permit Drawings
-- Equipment schedules — all HVAC units, AHUs, exhaust fans with capacity, electrical data, and model references
-- Ductwork layout plans at each floor — supply, return, and exhaust routing coordinated with architectural reflected ceiling plans
-- Equipment room layouts — mechanical room plans showing clearances and access paths
-- Load calculations — Manual J/Manual N heat load calculations for permit compliance
-- Energy compliance documentation — ASHRAE 90.1 or Texas energy code compliance forms
+- Equipment schedules - all HVAC units, AHUs, exhaust fans with capacity, electrical data, and model references
+- Ductwork layout plans at each floor - supply, return, and exhaust routing coordinated with architectural reflected ceiling plans
+- Equipment room layouts - mechanical room plans showing clearances and access paths
+- Load calculations - Manual J/Manual N heat load calculations for permit compliance
+- Energy compliance documentation - ASHRAE 90.1 or Texas energy code compliance forms
 
 ### Electrical Permit Drawings
 - Single-line diagram — panel-by-panel power distribution from utility service through distribution boards to branch circuits
@@ -51,19 +51,19 @@ All MEP discipline schedules were cross-referenced against architectural and str
 
 ## Key Challenges on This Project
 
-### Challenge 1 — Multi-Discipline Coordination Within Permit Scope
+### Challenge 1 - Multi-Discipline Coordination Within Permit Scope
 Permit sets for industrial facilities require MEP drawings that demonstrate code compliance without providing full construction-level detail. The challenge is producing drawings that are complete enough to satisfy plan reviewers across mechanical, electrical, and plumbing disciplines simultaneously — while keeping the scope within what a permit set requires, not what a full CD set requires.
 
 The coordination requirement is real even at permit stage: a mechanical equipment location that conflicts with structural framing, or a plumbing riser that routes through an electrical panel clearance zone, will generate review comments regardless of whether the drawing is labeled "permit" or "construction."
 
 **Resolution:** All three MEP disciplines were developed in a shared reference environment — architectural background, structural grid, and preliminary structural member locations — so that equipment placements and routing decisions were cross-checked before any permit drawings were finalized.
 
-### Challenge 2 — Texas Code Compliance Documentation
+### Challenge 2 - Texas Code Compliance Documentation
 Texas adopts the International Building Code (IBC) with Texas-specific amendments, and MEP systems must comply with the International Mechanical Code (IMC), International Plumbing Code (IPC), and NFPA 70 (National Electrical Code). Each of these codes has specific documentation requirements that must appear on permit drawings — not just technically compliant designs but drawings that explicitly call out code-compliance items in the format reviewers expect.
 
 **Resolution:** Standard Gsource Texas permit set templates were applied — incorporating the specific notes, calculation formats, and schedule structures that Texas jurisdictions require. This familiarity with local submission requirements is a direct factor in first-submission approval performance.
 
-### Challenge 3 — Coordination with Architectural and Structural References
+### Challenge 3 - Coordination with Architectural and Structural References
 MEP permit drawings must be coordinated against the architectural permit drawings submitted simultaneously. Equipment shown on MEP drawings must align with equipment shown on architectural floor plans. Structural penetrations required for MEP risers must be noted consistently across disciplines.
 
 **Resolution:** MEP drawings were produced using the approved architectural background drawings as base references, with structural grid overlaid. A final cross-discipline review was completed before package submission to verify consistency across all permit drawing sheets.
@@ -124,7 +124,7 @@ A permit set contains the minimum documentation required to obtain a building pe
 Yes. Gsource Technologies produces coordinated mechanical, electrical, and plumbing permit drawings as an integrated package — reducing coordination gaps that occur when disciplines are handled separately.
 
 ---
-
+Read the complete case study with project visuals: https://www.gsourcedata.com/case-studies/permit-ready-mep-design-set-created-for-a-4-floor-industrial-facility/
 ## About Gsource Technologies
 
 Gsource Technologies LLC is a global engineering design services firm headquartered in Hollywood, Florida, USA. With 16+ years of experience, a 350+ member multidisciplinary team, ISO 9001 and ISO 27001 certified workflows, and a 99% client satisfaction rate, Gsource delivers permit sets, CD sets, BIM coordination, MEP engineering, structural detailing, land survey drafting, and CAD drafting services for AEC firms across the US, UK, Canada, Europe, and internationally.
